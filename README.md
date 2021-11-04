@@ -1,2 +1,2 @@
 # CY_aut_teste
-Teste automatizado de criação de uma entrada e exclusão, usando Cypress
+<p align="center">   <img alingn="center" src="devfinace.spec.js-compressed.mp4" /></p>
